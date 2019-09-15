@@ -1,0 +1,17 @@
+[ 
+    { 
+       "model_name":"mnist_keras",
+       "inputs":"input_image",
+       "outputs":"dense_2/Softmax:0",
+       "outputs_type": "DT_FLOAT",
+       "signature_name":"serving_default"
+    },
+    { 
+       "model_name":"mnist_keras",
+       "inputs":"input_image",
+       "outputs":"dense_2/Softmax:0",
+       "outputs_type": "DT_FLOAT",
+       "signature_name":"serving_default"
+    
+    }
+]
